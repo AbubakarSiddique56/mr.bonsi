@@ -1,0 +1,7037 @@
+@media (min-width:320px) and (max-width:575px) {
+
+
+
+
+    header {
+        height: auto;
+    }
+
+    header .item2::before {
+        display: none;
+    }
+
+    header .icon {
+        text-align: left;
+    }
+
+    nav .navbar-brand img {
+        width: 70%;
+    }
+
+    nav button i {
+        color: #fff;
+    }
+
+
+
+
+
+
+
+
+
+
+    #banner-part {
+        height: auto;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+    #banner-part .overlay {
+        background: rgba(61, 45, 45, 0.70);
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #banner-part .overlay .box-info {
+        width: auto;
+        background: transparent;
+        padding: 0px 10px;
+        top: 20px;
+        left: 0;
+    }
+
+    #banner-part .overlay .box-info h1 {
+        font-size: 32px;
+        padding: 15px 0;
+    }
+
+    #banner-part .overlay .box-info .banner-second-p {
+        font-size: 16px;
+    }
+
+    #banner-part .overlay .box-info a {
+        font-size: 14px;
+        padding: 10px 10px;
+        margin-right: 25px;
+        margin-top: 30px;
+        margin-bottom: 50px;
+        margin-left: 28px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #solution-part {
+        margin-top: 30px;
+    }
+
+    #solution-part .years h2 {
+        font-size: 60px;
+    }
+
+    #solution-part .years p {
+        font-size: 16px;
+    }
+
+    #solution-part .years {
+        height: 119px;
+    }
+
+    #solution-part h3 {
+        font-family: 'Poppins', sans-serif;
+        font-size: 25px;
+        font-weight: 700;
+        color: black;
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+
+    #solution-part .line {
+        height: 2px;
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+
+    #solution-part .details p {
+        font-size: 16px;
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+
+    #solution-part .details a {
+        font-size: 16px;
+        padding: 5px 10px;
+        margin-top: 20px;
+        margin-right: 20px;
+        margin-left: 0px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #choose-part img {
+        position: static;
+        width: 100%;
+        margin-top: 15px;
+    }
+
+    #choose-part h3 {
+        font-size: 25px;
+        width: auto;
+    }
+
+    #choose-part .line {
+        height: 2px;
+        margin-top: 10px;
+    }
+
+    #choose-part .details p {
+        font-size: 16px;
+        margin: 16px 0;
+        width: auto;
+    }
+
+    #choose-part .details .list {
+        padding-top: 16px;
+    }
+
+    #choose-part .details .list h4 {
+        font-size: 20px;
+    }
+
+    #choose-part .details .list p {
+        margin-top: 14px;
+        width: auto;
+    }
+
+
+
+
+
+
+
+
+
+    #offer {
+        margin-top: 40px;
+    }
+
+    .title h1 {
+        font-size: 25px;
+        line-height: 33px;
+        margin-top: -50px;
+        margin-right: 20px;
+    }
+
+    .title::before {
+        top: 30px;
+        left: 65px;
+        width: 2px;
+        padding-top: 9px;
+        rotate: 90deg;
+    }
+
+    .title2 {
+        margin-left: 0px;
+        margin-top: -30px;
+    }
+
+    .title2 p {
+        font-size: 16px;
+    }
+
+    .finance {
+        margin-top: 40px;
+        margin-bottom: -60px;
+    }
+
+    .finance h1 {
+        font-size: 22px;
+    }
+
+    .finance p {
+        font-size: 16px;
+    }
+
+    .growth {
+        margin-top: -27px;
+    }
+
+    .missions {
+        margin-top: -25px;
+    }
+
+    .plan {
+        margin-top: -25px;
+    }
+
+    .marketing {
+        margin-top: -25px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+    #team-part .header h2 {
+        font-size: 25px;
+        margin-top: -80px;
+    }
+
+    #team-part .header h2::after {
+        bottom: 70px;
+        height: 2px;
+    }
+
+    #team-part .header p {
+        font-size: 16px;
+        text-align: left;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: -30px;
+    }
+
+    #team-part .info h2 {
+        font-size: 25px;
+    }
+
+    #team-part .info p {
+        font-size: 15px;
+    }
+
+    #team-part .info {
+        padding: 2px 0;
+    }
+
+    .fa-plus::before {
+        font-size: 20px;
+    }
+
+    #team-part .item {
+        margin-top: 20px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #counter-part .item h1 {
+        font-size: 50px;
+        margin-top: -14px;
+    }
+
+    #counter-part .item p {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    #counter-part {
+        height: 650px;
+        margin-bottom: 30px;
+    }
+
+
+
+
+
+
+
+    #faq-part {
+        margin-bottom: 30px;
+    }
+
+    #faq-part h3 {
+        font-size: 25px;
+        width: auto;
+    }
+
+    #faq-part .line {
+        height: 2px;
+        margin-top: 10px;
+    }
+
+    #faq-part .details p {
+        font-size: 16px;
+        margin: 25px 0;
+        width: auto;
+    }
+
+    #faq-part .accordion-item .accordion-body {
+        font-size: 16px;
+    }
+
+    #faq-part .accordion-button {
+        font-size: 18px;
+    }
+
+    #faq-part .collapsed {
+        font-size: 18px;
+    }
+
+    #faq-part .accordion-button i {
+        top: 60%;
+    }
+
+
+
+
+    .accordion-header {
+        margin-bottom: 5px;
+    }
+
+    .accordion-item {
+        border: 0px solid rgba(0, 0, 0, .125);
+    }
+
+    #faq-part img {
+        position: static;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    #plan-part .header h2 {
+        font-size: 25px;
+        margin-top: 20px;
+        padding-bottom: 60px;
+    }
+
+
+
+
+
+
+
+
+    #plan-part {
+        padding-bottom: 30px;
+    }
+
+    #plan-part .header h2::after {
+        height: 2px;
+    }
+
+    #plan-part .header p {
+        font-size: 16px;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: -20px;
+    }
+
+    #plan-part .item .top {
+        height: 80px;
+        margin-top: 30px;
+    }
+
+    #plan-part .item .top .left h3 {
+        font-size: 40px;
+    }
+
+    #plan-part .item .top .right h5 {
+        font-size: 25px;
+    }
+
+    #plan-part .item .bottom ul li a {
+        font-size: 18px;
+    }
+
+    #plan-part .item .bottom ul li i {
+        font-size: 18px;
+    }
+
+    #plan-part .item .bottom ul li .worng {
+        font-size: 18px;
+    }
+
+    #plan-part .item .bottom {
+        height: 100%;
+        height: 500px;
+        background: #fff;
+    }
+
+    #plan-part .item .bottom .box a {
+        font-size: 18px;
+        width: 135px;
+        height: 45px;
+        margin-left: 30px;
+        margin-top: 50px;
+    }
+
+    #plan-part .item .bottom ul li i {
+        margin-left: 30px;
+    }
+
+
+
+
+
+    #plan-part2 {
+        padding-bottom: 15px;
+    }
+
+    #plan-part2 .header h2 {
+        font-size: 25px;
+        margin-top: 30px;
+        padding-bottom: 80px;
+    }
+
+    #plan-part2 .header h2::after {
+        bottom: 70px;
+        height: 2px;
+    }
+
+    #plan-part2 .header p {
+        font-size: 16px;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: -45px;
+    }
+
+
+
+
+
+    #mission-part {
+        height: 710px;
+    }
+
+    #mission-part img {
+        padding: 14px 0;
+    }
+
+    #mission-part .right h3 {
+        font-size: 25px;
+        margin-top: -80px;
+    }
+
+    #mission-part .right .line {
+        height: 2px;
+        margin-top: 10px;
+    }
+
+    #mission-part .right p {
+        font-size: 16px;
+        padding-top: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #mission-part .right span {
+        font-size: 18px;
+        padding-left: 15px;
+    }
+
+    #news-part .header h2 {
+        font-size: 25px;
+        margin-top: -60px;
+    }
+
+    #news-part .header h2::after {
+        bottom: 70px;
+        height: 2px;
+    }
+
+    #news-part .header p {
+        font-size: 16px;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: -40px;
+    }
+
+    #news-part .item .info h5::before {
+        width: 298px;
+    }
+
+    #news-part .item .info h5::after {
+        width: 298px;
+    }
+
+
+
+    #news-part .item img {
+        width: 296px;
+    }
+
+    #news-part .item .info {
+        width: 296px;
+    }
+
+    #news-part .item .info h4 {
+        margin-right: 22px;
+    }
+
+    #news-part .item .info h4 {
+        margin-top: 10px;
+    }
+
+    #news-part .item .info .line {
+        width: 296px;
+    }
+
+    #news-part .item .info h5 span {
+        margin-left: 47px;
+    }
+
+
+
+
+
+
+
+
+    footer .item img {
+        margin-top: 25px;
+        margin-bottom: 20px;
+        width: 50%;
+    }
+
+    footer .item p {
+        font-size: 16px;
+        width: auto;
+    }
+
+    footer .item h4 {
+        font-size: 25px;
+    }
+
+    footer .item h5 {
+        font-size: 18px;
+        padding-top: 6px;
+    }
+
+    footer .item2 h4 {
+        padding-top: 40px;
+        padding-bottom: 10px;
+        font-size: 16px;
+    }
+
+    footer .item2 h4 {
+        padding-bottom: 2px;
+    }
+
+    footer .item2 ul li a {
+        font-size: 14px;
+        margin-left: -30px;
+        padding-left: 31px;
+    }
+
+    ul,
+    ol {
+        margin-left: -29px;
+    }
+
+    footer p {
+        font-size: 16px;
+    }
+
+
+
+
+
+
+
+    /* =====================last line====================== */
+}
+
+/* =================1st======================== */
+
+
+
+@media (min-width:575px) and (max-width:767px) {
+    header {
+        height: auto;
+    }
+
+    header .item2::before {
+        display: none;
+    }
+
+    header .icon {
+        text-align: left;
+    }
+
+    nav .navbar-brand img {
+        width: 70%;
+    }
+
+    nav button i {
+        color: #fff;
+    }
+
+
+
+    header .item2::after {
+        display: none;
+    }
+
+    header .item .second-p {
+        font-size: 15px;
+    }
+
+
+
+
+
+
+    #banner-part {
+        height: auto;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+
+    #banner-part .overlay .box-info {
+        width: auto;
+        background: transparent;
+        padding: 0px 10px;
+        top: 20px;
+        left: 0;
+    }
+
+    #banner-part .overlay .box-info h1 {
+        font-size: 32px;
+        padding: 15px 0;
+    }
+
+    #banner-part .overlay .box-info .banner-second-p {
+        font-size: 16px;
+    }
+
+    #banner-part .overlay .box-info a {
+        font-size: 14px;
+        padding: 10px 10px;
+        margin-right: 25px;
+        margin-top: 30px;
+        margin-bottom: 50px;
+        margin-left: 28px;
+    }
+
+
+
+
+
+    #banner-part .overlay .box-info p {
+        margin-left: 28px;
+    }
+
+    #banner-part .overlay .box-info h1 {
+        margin-left: 28px;
+    }
+
+
+
+
+
+    #banner-part .overlay {
+        background: rgba(61, 45, 45, 0.70);
+    }
+
+
+
+
+
+
+
+
+
+
+    #solution-part {
+        margin-top: 30px;
+    }
+
+    #solution-part .years h2 {
+        font-size: 60px;
+    }
+
+    #solution-part .years p {
+        font-size: 16px;
+    }
+
+    #solution-part .years {
+        height: 119px;
+    }
+
+    #solution-part h3 {
+        font-family: 'Poppins', sans-serif;
+        font-size: 25px;
+        font-weight: 700;
+        color: black;
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+
+    #solution-part .line {
+        height: 2px;
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+
+    #solution-part .details p {
+        font-size: 16px;
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+
+    #solution-part .details a {
+        font-size: 16px;
+        padding: 5px 10px;
+        margin-top: 20px;
+        margin-right: 20px;
+        margin-left: 0px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #choose-part img {
+        position: static;
+        width: 100%;
+        margin-top: 15px;
+    }
+
+    #choose-part h3 {
+        font-size: 25px;
+        width: auto;
+    }
+
+    #choose-part .line {
+        height: 2px;
+        margin-top: 10px;
+    }
+
+    #choose-part .details p {
+        font-size: 16px;
+        margin: 16px 0;
+        width: auto;
+    }
+
+    #choose-part .details .list {
+        padding-top: 16px;
+    }
+
+    #choose-part .details .list h4 {
+        font-size: 20px;
+    }
+
+    #choose-part .details .list p {
+        margin-top: 14px;
+        width: auto;
+    }
+
+
+
+
+
+
+
+
+
+    #offer {
+        margin-top: 40px;
+    }
+
+    .title h1 {
+        font-size: 25px;
+        line-height: 33px;
+        margin-top: -50px;
+        margin-right: 20px;
+    }
+
+    .title::before {
+        top: 30px;
+        left: 65px;
+        width: 2px;
+        padding-top: 9px;
+        rotate: 90deg;
+    }
+
+    .title2 {
+        margin-left: 0px;
+        margin-top: -30px;
+    }
+
+    .title2 p {
+        font-size: 16px;
+    }
+
+    .finance {
+        margin-top: 40px;
+        margin-bottom: -60px;
+    }
+
+    .finance h1 {
+        font-size: 22px;
+    }
+
+    .finance p {
+        font-size: 16px;
+    }
+
+    .growth {
+        margin-top: -27px;
+    }
+
+    .missions {
+        margin-top: -25px;
+    }
+
+    .plan {
+        margin-top: -25px;
+    }
+
+    .marketing {
+        margin-top: -25px;
+    }
+
+
+
+
+
+    .finance {
+        margin-top: 132px;
+        padding-top: 40px;
+        padding-bottom: 24px;
+    }
+
+    .decisions {
+        margin-top: 131px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #team-part .header h2 {
+        font-size: 25px;
+        margin-top: -80px;
+    }
+
+    #team-part .header h2::after {
+        bottom: 70px;
+        height: 2px;
+    }
+
+    #team-part .header p {
+        font-size: 16px;
+        text-align: left;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: -30px;
+    }
+
+    #team-part .info h2 {
+        font-size: 25px;
+    }
+
+    #team-part .info p {
+        font-size: 15px;
+    }
+
+    #team-part .info {
+        padding: 2px 0;
+    }
+
+    .fa-plus::before {
+        font-size: 20px;
+    }
+
+    #team-part .item {
+        margin-top: 20px;
+    }
+
+
+
+
+    #team-part .info {
+        padding: 25px 0;
+    }
+
+    #team-part .info h2 {
+        font-size: 30px;
+    }
+
+    #team-part .info p {
+        font-size: 16px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #counter-part .item h1 {
+        font-size: 50px;
+        margin-top: -14px;
+    }
+
+    #counter-part .item p {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    #counter-part {
+        height: 650px;
+        margin-bottom: 30px;
+    }
+
+
+
+
+
+
+
+    #counter-part {
+        height: 530px;
+    }
+
+    #counter-part .item {
+        margin-top: 120px;
+    }
+
+    #counter-part .item h1 {
+        font-size: 60px;
+    }
+
+    #counter-part .item p {
+        font-size: 17px;
+        margin-top: 10px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #faq-part {
+        margin-bottom: 30px;
+    }
+
+    #faq-part h3 {
+        font-size: 25px;
+        width: auto;
+    }
+
+    #faq-part .line {
+        height: 2px;
+        margin-top: 10px;
+    }
+
+    #faq-part .details p {
+        font-size: 16px;
+        margin: 25px 0;
+        width: auto;
+    }
+
+    #faq-part .accordion-item .accordion-body {
+        font-size: 16px;
+    }
+
+    #faq-part .accordion-button {
+        font-size: 18px;
+    }
+
+    #faq-part .collapsed {
+        font-size: 18px;
+    }
+
+    #faq-part .accordion-button i {
+        top: 60%;
+    }
+
+
+
+
+    .accordion-header {
+        margin-bottom: 5px;
+    }
+
+    .accordion-item {
+        border: 0px solid rgba(0, 0, 0, .125);
+    }
+
+    #faq-part img {
+        position: static;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    #plan-part .header h2 {
+        font-size: 25px;
+        margin-top: 20px;
+        padding-bottom: 60px;
+    }
+
+    #plan-part {
+        padding-bottom: 30px;
+    }
+
+    #plan-part .header h2::after {
+        height: 2px;
+    }
+
+    #plan-part .header p {
+        font-size: 16px;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: -20px;
+    }
+
+    #plan-part .item .top {
+        height: 80px;
+        margin-top: 30px;
+    }
+
+    #plan-part .item .top .left h3 {
+        font-size: 40px;
+    }
+
+    #plan-part .item .top .right h5 {
+        font-size: 25px;
+    }
+
+    #plan-part .item .bottom ul li a {
+        font-size: 18px;
+    }
+
+    #plan-part .item .bottom ul li i {
+        font-size: 18px;
+    }
+
+    #plan-part .item .bottom ul li .worng {
+        font-size: 18px;
+    }
+
+    #plan-part .item .bottom {
+        height: 100%;
+        height: 500px;
+        background: #fff;
+    }
+
+    #plan-part .item .bottom .box a {
+        font-size: 18px;
+        width: 135px;
+        height: 45px;
+        margin-left: 30px;
+        margin-top: 50px;
+    }
+
+    #plan-part .item .bottom ul li i {
+        margin-left: 30px;
+    }
+
+
+
+
+
+
+
+
+
+
+    #plan-part2 {
+        padding-bottom: 15px;
+    }
+
+    #plan-part2 .header h2 {
+        font-size: 25px;
+        margin-top: 30px;
+        padding-bottom: 80px;
+    }
+
+    #plan-part2 .header h2::after {
+        bottom: 70px;
+        height: 2px;
+    }
+
+    #plan-part2 .header p {
+        font-size: 16px;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: -45px;
+    }
+
+
+
+
+
+
+
+
+
+
+    #mission-part {
+        height: 710px;
+    }
+
+    #mission-part img {
+        padding: 14px 0;
+    }
+
+    #mission-part .right h3 {
+        font-size: 25px;
+        margin-top: -80px;
+    }
+
+    #mission-part .right .line {
+        height: 2px;
+        margin-top: 10px;
+    }
+
+    #mission-part .right p {
+        font-size: 16px;
+        padding-top: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #mission-part .right span {
+        font-size: 18px;
+        padding-left: 15px;
+    }
+
+
+
+
+
+
+
+
+
+    #news-part .header h2 {
+        font-size: 25px;
+        margin-top: -60px;
+    }
+
+    #news-part .header h2::after {
+        bottom: 70px;
+        height: 2px;
+    }
+
+    #news-part .header p {
+        font-size: 16px;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: -40px;
+    }
+
+    #news-part .item .info h5::before {
+        width: 298px;
+    }
+
+    #news-part .item .info h5::after {
+        width: 298px;
+    }
+
+    #news-part .item img {
+        width: 296px;
+    }
+
+    #news-part .item .info {
+        width: 296px;
+    }
+
+    #news-part .item .info h4 {
+        margin-right: 22px;
+    }
+
+    #news-part .item .info h4 {
+        margin-top: 10px;
+    }
+
+    #news-part .item .info .line {
+        width: 296px;
+    }
+
+    #news-part .item .info h5 span {
+        margin-left: 47px;
+    }
+
+
+
+
+
+
+
+    #news-part .item img {
+        width: 515px;
+    }
+
+    #news-part .item .info {
+        width: 515px;
+    }
+
+    #news-part .item .info h5::after {
+        width: 517px;
+        margin-top: -20px;
+    }
+
+    #news-part .item .info h5::before {
+        width: 517px;
+        margin-top: 35px;
+    }
+
+    #news-part .item .info .line {
+        width: 515px;
+    }
+
+    #news-part .item .info h4 {
+        margin-top: 20px;
+        padding: 29px 0;
+    }
+
+    #news-part .item .info p {
+        padding: 20px 0;
+    }
+
+    #news-part .item .info h5 i {
+        margin-left: 35px;
+    }
+
+    #news-part .item .info h5 span {
+        margin-left: 150px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    footer .item img {
+        margin-top: 25px;
+        margin-bottom: 20px;
+        width: 50%;
+    }
+
+    footer .item p {
+        font-size: 16px;
+        width: auto;
+    }
+
+    footer .item h4 {
+        font-size: 25px;
+    }
+
+    footer .item h5 {
+        font-size: 18px;
+        padding-top: 6px;
+    }
+
+    footer .item2 h4 {
+        padding-top: 40px;
+        padding-bottom: 10px;
+        font-size: 16px;
+    }
+
+    footer .item2 h4 {
+        padding-bottom: 2px;
+    }
+
+    footer .item2 ul li a {
+        font-size: 14px;
+        margin-left: -30px;
+        padding-left: 31px;
+    }
+
+    footer p {
+        font-size: 16px;
+    }
+
+
+
+
+
+
+    footer .main {
+        margin-left: -30px;
+    }
+
+    footer .item2 h4 {
+        margin-left: 33px;
+    }
+
+
+
+
+    /* =====================last line====================== */
+}
+
+/* =================2nd======================== */
+
+
+
+
+@media (min-width:768px) and (max-width:991px) {
+    header {
+        height: auto;
+    }
+
+    header .item2::before {
+        display: none;
+    }
+
+    header .icon {
+        text-align: left;
+    }
+
+    nav .navbar-brand img {
+        width: 70%;
+    }
+
+    nav button i {
+        color: #fff;
+    }
+
+
+
+
+    header .item2::after {
+        display: none;
+    }
+
+
+
+
+
+
+    #banner-part {
+        height: auto;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+
+    #banner-part .overlay .box-info {
+        width: auto;
+        background: transparent;
+        padding: 0px 10px;
+        top: 20px;
+        left: 0;
+    }
+
+    #banner-part .overlay .box-info h1 {
+        font-size: 32px;
+        padding: 15px 0;
+    }
+
+    #banner-part .overlay .box-info .banner-second-p {
+        font-size: 16px;
+    }
+
+    #banner-part .overlay .box-info a {
+        font-size: 14px;
+        padding: 10px 10px;
+        margin-right: 25px;
+        margin-top: 30px;
+        margin-bottom: 50px;
+        margin-left: 28px;
+    }
+
+
+
+
+
+    #banner-part .overlay .box-info p {
+        margin-left: 28px;
+    }
+
+    #banner-part .overlay .box-info h1 {
+        margin-left: 28px;
+    }
+
+
+    #banner-part .overlay {
+        background: rgba(61, 45, 45, 0.70);
+    }
+
+
+
+
+    #solution-part h3 {
+        font-size: 30px;
+        padding-right: 227px;
+    }
+
+    #solution-part .line {
+        height: 3px;
+    }
+
+    #solution-part .details a {
+        font-size: 20px;
+        padding: 10px 20px;
+        margin-top: 40px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #solution-part {
+        margin-top: 30px;
+    }
+
+    #solution-part .years h2 {
+        font-size: 60px;
+    }
+
+    #solution-part .years p {
+        font-size: 16px;
+    }
+
+    #solution-part .years {
+        height: 119px;
+    }
+
+    #solution-part h3 {
+        font-family: 'Poppins', sans-serif;
+        font-size: 25px;
+        font-weight: 700;
+        color: black;
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+
+    #solution-part .line {
+        height: 2px;
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+
+    #solution-part .details p {
+        font-size: 16px;
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+
+    #solution-part .details a {
+        font-size: 18px;
+        padding: 10px 20px;
+        margin-top: 40px;
+        margin-left: 0px;
+    }
+
+
+
+
+
+    #choose-part h3 {
+        font-size: 30px;
+        padding-right: 266px;
+    }
+
+    #choose-part .line {
+        height: 3px;
+    }
+
+    #choose-part .details .list {
+        margin-bottom: 30px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #choose-part img {
+        position: static;
+        width: 100%;
+        margin-top: 15px;
+    }
+
+    #choose-part h3 {
+        font-size: 25px;
+        width: auto;
+    }
+
+    #choose-part .line {
+        height: 2px;
+        margin-top: 10px;
+    }
+
+    #choose-part .details p {
+        font-size: 16px;
+        margin: 16px 0;
+        width: auto;
+    }
+
+    #choose-part .details .list {
+        padding-top: 16px;
+    }
+
+    #choose-part .details .list h4 {
+        font-size: 20px;
+    }
+
+    #choose-part .details .list p {
+        margin-top: 14px;
+        width: auto;
+    }
+
+    #choose-part .details .list p {
+        margin-top: 16px;
+    }
+
+    #choose-part .details p {
+        font-size: 18px;
+    }
+
+
+
+
+
+
+
+    #offer {
+        margin-top: 40px;
+    }
+
+    .title h1 {
+        font-size: 25px;
+        line-height: 33px;
+        margin-top: -50px;
+        margin-right: 20px;
+    }
+
+    .title::before {
+        top: 30px;
+        left: 65px;
+        width: 2px;
+        padding-top: 9px;
+        rotate: 90deg;
+    }
+
+    .title2 {
+        margin-left: 0px;
+        margin-top: -30px;
+    }
+
+    .title2 p {
+        font-size: 16px;
+    }
+
+    .finance {
+        margin-top: 40px;
+        margin-bottom: -60px;
+    }
+
+    .finance h1 {
+        font-size: 22px;
+    }
+
+    .finance p {
+        font-size: 16px;
+    }
+
+    .growth {
+        margin-top: -27px;
+    }
+
+    .missions {
+        margin-top: -25px;
+    }
+
+    .plan {
+        margin-top: -25px;
+    }
+
+    .marketing {
+        margin-top: -25px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    .title::before {
+        width: 3px;
+    }
+
+    .title2 p {
+        font-size: 18px;
+    }
+
+    .finance h1 {
+        font-size: 25px;
+    }
+
+    .finance {
+        margin-top: 79px;
+    }
+
+    .finance .fi-icon {
+        padding-top: 33px;
+    }
+
+    .decisions .de-icon {
+        padding-top: 30px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #team-part .header h2 {
+        font-size: 25px;
+        margin-top: -80px;
+    }
+
+    #team-part .header h2::after {
+        bottom: 70px;
+        height: 2px;
+    }
+
+    #team-part .header p {
+        font-size: 16px;
+        text-align: left;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: -30px;
+    }
+
+    #team-part .info h2 {
+        font-size: 25px;
+    }
+
+    #team-part .info p {
+        font-size: 15px;
+    }
+
+    #team-part .info {
+        padding: 2px 0;
+    }
+
+    .fa-plus::before {
+        font-size: 20px;
+    }
+
+    #team-part .item {
+        margin-top: 20px;
+    }
+
+
+
+
+
+
+
+
+    #team-part .header h2 {
+        font-size: 30px;
+        padding-right: 235px;
+        padding-left: 173px;
+        margin-left: 40px;
+    }
+
+    #team-part .header h2::after {
+        height: 3px;
+        margin-left: -32px;
+    }
+
+    #team-part .header p {
+        font-size: 18px;
+    }
+
+    #team-part .info {
+        padding: 5px 0;
+    }
+
+    #team-part .info h2 {
+        font-size: 25px;
+    }
+
+    #team-part .info p {
+        font-size: 16px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #counter-part .item h1 {
+        font-size: 50px;
+        margin-top: -14px;
+    }
+
+    #counter-part .item p {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    #counter-part {
+        height: 400px;
+        margin-bottom: 30px;
+    }
+
+
+
+
+
+
+    #counter-part .item {
+        margin-top: 80px;
+    }
+
+    #counter-part .item h1 {
+        font-size: 55px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    #faq-part {
+        margin-bottom: 30px;
+    }
+
+    #faq-part h3 {
+        font-size: 25px;
+        width: auto;
+    }
+
+    #faq-part .line {
+        height: 2px;
+        margin-top: 10px;
+    }
+
+    #faq-part .details p {
+        font-size: 16px;
+        margin: 25px 0;
+        width: auto;
+    }
+
+    #faq-part .accordion-item .accordion-body {
+        font-size: 16px;
+    }
+
+    #faq-part .accordion-button {
+        font-size: 18px;
+    }
+
+    #faq-part .collapsed {
+        font-size: 18px;
+    }
+
+    #faq-part .accordion-button i {
+        top: 60%;
+    }
+
+
+
+
+
+
+
+
+    #faq-part h3 {
+        font-size: 30px;
+        padding-right: 400px;
+    }
+
+    #faq-part .line {
+        height: 3px;
+    }
+
+    #faq-part .details p {
+        font-size: 18px;
+    }
+
+    #faq-part .accordion-button {
+        font-size: 25px;
+        padding-right: 298px;
+    }
+
+    #faq-part .accordion-item .accordion-body {
+        font-size: 18px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .accordion-header {
+        margin-bottom: 5px;
+    }
+
+    .accordion-item {
+        border: 0px solid rgba(0, 0, 0, .125);
+    }
+
+    #faq-part img {
+        position: static;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    #plan-part .header h2 {
+        font-size: 25px;
+        margin-top: 20px;
+        padding-bottom: 60px;
+    }
+
+    #plan-part {
+        padding-bottom: 30px;
+    }
+
+    #plan-part .header h2::after {
+        height: 2px;
+    }
+
+    #plan-part .header p {
+        font-size: 16px;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: -20px;
+    }
+
+    #plan-part .item .top {
+        height: 80px;
+        margin-top: 30px;
+    }
+
+    #plan-part .item .top .left h3 {
+        font-size: 40px;
+    }
+
+    #plan-part .item .top .right h5 {
+        font-size: 25px;
+    }
+
+    #plan-part .item .bottom ul li a {
+        font-size: 18px;
+    }
+
+    #plan-part .item .bottom ul li i {
+        font-size: 18px;
+    }
+
+    #plan-part .item .bottom ul li .worng {
+        font-size: 18px;
+    }
+
+    #plan-part .item .bottom {
+        height: 100%;
+        height: 500px;
+        background: #fff;
+    }
+
+    #plan-part .item .bottom .box a {
+        font-size: 18px;
+        width: 135px;
+        height: 45px;
+        margin-left: 30px;
+        margin-top: 50px;
+    }
+
+    #plan-part .item .bottom ul li i {
+        margin-left: 30px;
+    }
+
+
+
+
+
+
+
+
+
+    #plan-part .header h2 {
+        font-size: 30px;
+    }
+
+    #plan-part .header h2::after {
+        height: 3px;
+    }
+
+    #plan-part .header p {
+        font-size: 18px;
+    }
+
+    #plan-part .item .top .left h3 {
+        font-size: 50px;
+    }
+
+    #plan-part .item .top .right h5 {
+        font-size: 30px;
+    }
+
+    #plan-part .item .bottom ul li a {
+        font-size: 22px;
+    }
+
+    #plan-part .item .bottom ul li i {
+        margin-left: 60px;
+    }
+
+    #plan-part .item .bottom ul li i {
+        font-size: 20px;
+    }
+
+    #plan-part .item .bottom ul li .worng {
+        font-size: 20px;
+    }
+
+    #plan-part .item .bottom .box a {
+        margin-left: 90px;
+    }
+
+    #plan-part .item .bottom {
+        height: 530px;
+    }
+
+    #plan-part .item .top {
+        margin-top: 50px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #plan-part2 {
+        padding-bottom: 15px;
+    }
+
+    #plan-part2 .header h2 {
+        font-size: 25px;
+        margin-top: 30px;
+        padding-bottom: 80px;
+    }
+
+    #plan-part2 .header h2::after {
+        bottom: 70px;
+        height: 2px;
+    }
+
+    #plan-part2 .header p {
+        font-size: 16px;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: -45px;
+    }
+
+
+
+
+
+
+
+    #plan-part2 .header h2 {
+        font-size: 30px;
+        padding-right: 218px;
+        padding-left: 213px;
+    }
+
+    #plan-part2 .header h2::after {
+        height: 3px;
+    }
+
+    #plan-part2 .header p {
+        font-size: 18px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #mission-part {
+        height: 710px;
+    }
+
+    #mission-part img {
+        padding: 14px 0;
+    }
+
+    #mission-part .right h3 {
+        font-size: 25px;
+        margin-top: -80px;
+    }
+
+    #mission-part .right .line {
+        height: 2px;
+        margin-top: 10px;
+    }
+
+    #mission-part .right p {
+        font-size: 16px;
+        padding-top: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #mission-part .right span {
+        font-size: 18px;
+        padding-left: 15px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    #mission-part {
+        height: 820px;
+    }
+
+    #mission-part .right h3 {
+        font-size: 30px;
+    }
+
+    #news-part .header h2::after {
+        height: 3px;
+    }
+
+    #mission-part .right p {
+        font-size: 18px;
+    }
+
+    #mission-part .right span {
+        font-size: 20px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #news-part .header h2 {
+        font-size: 25px;
+        margin-top: -60px;
+    }
+
+    #news-part .header h2::after {
+        bottom: 70px;
+        height: 2px;
+    }
+
+    #news-part .header p {
+        font-size: 16px;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: -40px;
+    }
+
+    #news-part .item .info h5::before {
+        width: 298px;
+    }
+
+    #news-part .item .info h5::after {
+        width: 298px;
+    }
+
+    #news-part .item img {
+        width: 296px;
+    }
+
+    #news-part .item .info {
+        width: 296px;
+    }
+
+    #news-part .item .info h4 {
+        margin-right: 22px;
+    }
+
+    #news-part .item .info h4 {
+        margin-top: 10px;
+    }
+
+    #news-part .item .info .line {
+        width: 230px;
+    }
+
+    #news-part .item .info h5 span {
+        margin-left: 47px;
+    }
+
+
+
+
+
+    #news-part .item .info h5 i {
+        color: #555555;
+        font-size: 14px;
+        margin-right: 3px;
+    }
+  
+
+
+
+
+
+
+
+
+
+
+
+    #news-part .header h2 {
+        font-size: 30px;
+    }
+
+    #news-part .header h2::after {
+        height: 3px;
+    }
+
+    #news-part .header p {
+        font-size: 18px;
+    }
+
+
+
+
+
+
+
+    #news-part .item img {
+        width: 230px;
+    }
+
+    #news-part .item .info {
+        width: 230px;
+    }
+
+    #news-part .item .info h5::after {
+        width: 231px;
+    }
+
+    #news-part .item .info h5::before {
+        width: 231px;
+    }
+
+    #news-part .item .info h5 span {
+        margin-left: 13px;
+        margin-right: -10px;
+    }
+    #news-part .item .info h5 span i {
+        margin-right: 3px;
+    }
+    #news-part .item .info h5 i {
+        margin-right: 3px;
+        margin-left: -6px;
+    }
+    #news-part .item .info h4 {
+        font-size: 16px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    footer .item img {
+        margin-top: 25px;
+        margin-bottom: 20px;
+        width: 50%;
+    }
+
+    footer .item p {
+        font-size: 16px;
+        width: auto;
+    }
+
+    footer .item h4 {
+        font-size: 25px;
+    }
+
+    footer .item h5 {
+        font-size: 18px;
+        padding-top: 6px;
+    }
+
+    footer .item2 h4 {
+        padding-top: 40px;
+        padding-bottom: 10px;
+        font-size: 16px;
+    }
+
+    footer .item2 h4 {
+        padding-bottom: 2px;
+    }
+
+    footer .item2 ul li a {
+        font-size: 14px;
+        margin-left: -30px;
+        padding-left: 31px;
+    }
+
+    footer p {
+        font-size: 16px;
+    }
+
+
+
+
+
+
+    footer .main {
+        margin-left: -30px;
+    }
+
+    footer .item2 h4 {
+        margin-left: 33px;
+    }
+
+
+
+
+
+
+    footer .item img {
+        width: 30%;
+    }
+
+    footer .item p {
+        font-size: 18px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* =====================last line====================== */
+}
+
+/* =================3rd======================== */
+
+
+
+
+
+@media (min-width:992px) and (max-width:1199px) {
+    header {
+        height: auto;
+    }
+
+    header .item2::before {
+        display: none;
+    }
+
+    header .icon {
+        text-align: left;
+    }
+
+    nav .navbar-brand img {
+        width: 70%;
+    }
+
+    nav button i {
+        color: #fff;
+    }
+
+
+
+    header .item2::after {
+        display: none;
+    }
+
+
+
+
+    header .item .second-p {
+        font-size: 14px;
+        width: 122%;
+    }
+
+
+
+
+    #banner-part {
+        height: auto;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+
+    #banner-part .overlay .box-info {
+        width: auto;
+        background: transparent;
+        padding: 0px 10px;
+        top: 20px;
+        left: 0;
+    }
+
+    #banner-part .overlay .box-info h1 {
+        font-size: 32px;
+        padding: 15px 0;
+    }
+
+    #banner-part .overlay .box-info .banner-second-p {
+        font-size: 16px;
+    }
+
+    #banner-part .overlay .box-info a {
+        font-size: 14px;
+        padding: 10px 10px;
+        margin-right: 25px;
+        margin-top: 30px;
+        margin-bottom: 50px;
+        margin-left: 28px;
+    }
+
+
+
+
+
+    #banner-part .overlay .box-info p {
+        margin-left: 28px;
+    }
+
+    #banner-part .overlay .box-info h1 {
+        margin-left: 28px;
+    }
+
+
+    #banner-part .overlay {
+        background: rgba(61, 45, 45, 0.70);
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #solution-part h3 {
+        font-size: 30px;
+        padding-right: 227px;
+    }
+
+    #solution-part .line {
+        height: 3px;
+    }
+
+    #solution-part .details a {
+        font-size: 20px;
+        padding: 10px 20px;
+        margin-top: 40px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #solution-part {
+        margin-top: 30px;
+    }
+
+    #solution-part .years h2 {
+        font-size: 60px;
+    }
+
+    #solution-part .years p {
+        font-size: 16px;
+    }
+
+    #solution-part .years {
+        height: 119px;
+    }
+
+    #solution-part h3 {
+        font-family: 'Poppins', sans-serif;
+        font-size: 25px;
+        font-weight: 700;
+        color: black;
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+
+    #solution-part .line {
+        height: 2px;
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+
+    #solution-part .details p {
+        font-size: 16px;
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+
+    #solution-part .details a {
+        font-size: 18px;
+        padding: 10px 20px;
+        margin-top: 40px;
+        margin-left: 0px;
+    }
+
+
+
+
+
+    #solution-part .years h2 {
+        font-size: 80px;
+    }
+
+    #solution-part .years p {
+        font-size: 18px;
+    }
+
+    #solution-part .years {
+        height: 130px;
+    }
+
+    #solution-part h3 {
+        font-size: 30px;
+    }
+
+    #solution-part .line {
+        height: 4px;
+    }
+
+    #solution-part h3 {
+        margin-top: -7px;
+    }
+
+    #solution-part .details a {
+        margin-top: 20px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    #choose-part h3 {
+        font-size: 30px;
+        padding-right: 266px;
+    }
+
+    #choose-part .line {
+        height: 3px;
+    }
+
+    #choose-part .details .list {
+        margin-bottom: 30px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #choose-part img {
+        position: static;
+        width: 100%;
+        margin-top: 15px;
+    }
+
+    #choose-part h3 {
+        font-size: 25px;
+        width: auto;
+    }
+
+    #choose-part .line {
+        height: 2px;
+        margin-top: 10px;
+    }
+
+    #choose-part .details p {
+        font-size: 16px;
+        margin: 16px 0;
+        width: auto;
+    }
+
+    #choose-part .details .list {
+        padding-top: 16px;
+    }
+
+    #choose-part .details .list h4 {
+        font-size: 20px;
+    }
+
+    #choose-part .details .list p {
+        margin-top: 14px;
+        width: auto;
+    }
+
+    #choose-part .details .list p {
+        margin-top: 16px;
+    }
+
+    #choose-part .details p {
+        font-size: 18px;
+    }
+
+
+
+
+
+
+
+
+    #choose-part h3 {
+        font-size: 35px;
+        padding-right: 0;
+    }
+
+    #choose-part .line {
+        height: 4px;
+    }
+
+    #choose-part .details p {
+        font-size: 20px;
+    }
+
+    #choose-part .details .list h4 {
+        font-size: 22px;
+    }
+
+    #choose-part .details .list {
+        padding-top: 0px;
+    }
+
+
+
+
+
+
+
+
+
+    #offer {
+        margin-top: 40px;
+    }
+
+    .title h1 {
+        font-size: 25px;
+        line-height: 33px;
+        margin-top: -50px;
+        margin-right: 20px;
+    }
+
+    .title::before {
+        top: 30px;
+        left: 65px;
+        width: 2px;
+        padding-top: 9px;
+        rotate: 90deg;
+    }
+
+    .title2 {
+        margin-left: 0px;
+        margin-top: -30px;
+    }
+
+    .title2 p {
+        font-size: 16px;
+    }
+
+    .finance {
+        margin-top: 40px;
+        margin-bottom: -60px;
+    }
+
+    .finance h1 {
+        font-size: 22px;
+    }
+
+    .finance p {
+        font-size: 16px;
+    }
+
+    .growth {
+        margin-top: -27px;
+    }
+
+    .missions {
+        margin-top: -25px;
+    }
+
+    .plan {
+        margin-top: -25px;
+    }
+
+    .marketing {
+        margin-top: -25px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    .title::before {
+        width: 3px;
+    }
+
+    .title2 p {
+        font-size: 18px;
+    }
+
+    .finance h1 {
+        font-size: 25px;
+    }
+
+    .finance {
+        margin-top: 79px;
+    }
+
+    .finance .fi-icon {
+        padding-top: 33px;
+    }
+
+    .decisions .de-icon {
+        padding-top: 30px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #team-part .header h2 {
+        font-size: 25px;
+        margin-top: -80px;
+    }
+
+    #team-part .header h2::after {
+        bottom: 70px;
+        height: 2px;
+    }
+
+    #team-part .header p {
+        font-size: 16px;
+        text-align: left;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: -30px;
+    }
+
+    #team-part .info h2 {
+        font-size: 25px;
+    }
+
+    #team-part .info p {
+        font-size: 15px;
+    }
+
+    #team-part .info {
+        padding: 2px 0;
+    }
+
+    .fa-plus::before {
+        font-size: 20px;
+    }
+
+    #team-part .item {
+        margin-top: 20px;
+    }
+
+
+
+
+
+
+
+
+    #team-part .header h2 {
+        font-size: 35px;
+        padding-right: 0px;
+        padding-left: 0px;
+        margin-left: 0px;
+    }
+
+    #team-part .header h2::after {
+        height: 3px;
+        margin-left: -32px;
+    }
+
+    #team-part .header p {
+        font-size: 18px;
+    }
+
+    #team-part .info {
+        padding: 40px 0;
+    }
+
+    #team-part .info h2 {
+        font-size: 40px;
+    }
+
+    #team-part .info p {
+        font-size: 20px;
+    }
+
+
+
+
+
+
+
+    #team-part .header h2 {
+        font-size: 35px;
+    }
+
+    #team-part .header h2::after {
+        height: 4px;
+    }
+
+    #team-part .header p {
+        font-size: 20px;
+    }
+
+    #team-part .info h2 {
+        font-size: 30px;
+    }
+
+    #team-part .info p {
+        font-size: 16px;
+    }
+
+    #team-part .info {
+        padding: 12px 0;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .title h1 {
+        font-size: 35px;
+    }
+
+    .title::before {
+        width: 4px;
+    }
+
+    .title2 p {
+        font-size: 20px;
+        margin-top: 50px;
+        margin-left: -66px;
+    }
+
+    .title::before {
+        width: 4px;
+    }
+
+    .growth {
+        margin-top: 70px;
+    }
+
+    .finance .fi-icon {
+        padding-top: 60px;
+    }
+
+    .growth {
+        margin-top: 80px;
+        height: 350px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #counter-part .item h1 {
+        font-size: 50px;
+        margin-top: -14px;
+    }
+
+    #counter-part .item p {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    #counter-part {
+        height: 650px;
+        margin-bottom: 30px;
+    }
+
+
+
+
+
+
+    #counter-part .item {
+        margin-top: 170px;
+    }
+
+    #counter-part .item h1 {
+        font-size: 55px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+    #counter-part {
+        height: 375px;
+    }
+
+    #counter-part .item h1 {
+        font-size: 60px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #faq-part {
+        margin-bottom: 30px;
+    }
+
+    #faq-part h3 {
+        font-size: 25px;
+        width: auto;
+    }
+
+    #faq-part .line {
+        height: 2px;
+        margin-top: 10px;
+    }
+
+    #faq-part .details p {
+        font-size: 16px;
+        margin: 25px 0;
+        width: auto;
+    }
+
+    #faq-part .accordion-item .accordion-body {
+        font-size: 16px;
+    }
+
+    #faq-part .accordion-button {
+        font-size: 18px;
+    }
+
+    #faq-part .collapsed {
+        font-size: 18px;
+    }
+
+    #faq-part .accordion-button i {
+        top: 60%;
+    }
+
+
+
+
+
+
+
+
+    #faq-part h3 {
+        font-size: 30px;
+        padding-right: 400px;
+    }
+
+    #faq-part .line {
+        height: 3px;
+    }
+
+    #faq-part .details p {
+        font-size: 18px;
+    }
+
+    #faq-part .accordion-button {
+        font-size: 25px;
+        padding-right: 298px;
+    }
+
+    #faq-part .accordion-item .accordion-body {
+        font-size: 18px;
+    }
+
+
+
+
+
+
+
+    #faq-part h3 {
+        font-size: 35px;
+        padding-right: 0px;
+    }
+
+    #faq-part .line {
+        height: 4px;
+    }
+
+    #faq-part .details p {
+        font-size: 20px;
+    }
+
+    #faq-part .accordion-button {
+        padding-right: 0px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .accordion-header {
+        margin-bottom: 5px;
+    }
+
+    .accordion-item {
+        border: 0px solid rgba(0, 0, 0, .125);
+    }
+
+    #faq-part img {
+        position: static;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    #plan-part .header h2 {
+        font-size: 25px;
+        margin-top: 20px;
+        padding-bottom: 60px;
+    }
+
+    #plan-part {
+        padding-bottom: 30px;
+    }
+
+    #plan-part .header h2::after {
+        height: 2px;
+    }
+
+    #plan-part .header p {
+        font-size: 16px;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: -20px;
+    }
+
+    #plan-part .item .top {
+        height: 80px;
+        margin-top: 30px;
+    }
+
+    #plan-part .item .top .left h3 {
+        font-size: 40px;
+    }
+
+    #plan-part .item .top .right h5 {
+        font-size: 25px;
+    }
+
+    #plan-part .item .bottom ul li a {
+        font-size: 18px;
+    }
+
+    #plan-part .item .bottom ul li i {
+        font-size: 18px;
+    }
+
+    #plan-part .item .bottom ul li .worng {
+        font-size: 18px;
+    }
+
+    #plan-part .item .bottom {
+        height: 100%;
+        height: 500px;
+        background: #fff;
+    }
+
+    #plan-part .item .bottom .box a {
+        font-size: 18px;
+        width: 135px;
+        height: 45px;
+        margin-left: 30px;
+        margin-top: 50px;
+    }
+
+    #plan-part .item .bottom ul li i {
+        margin-left: 30px;
+    }
+
+
+
+
+
+
+
+
+
+    #plan-part .header h2 {
+        font-size: 30px;
+    }
+
+    #plan-part .header h2::after {
+        height: 3px;
+    }
+
+    #plan-part .header p {
+        font-size: 18px;
+    }
+
+    #plan-part .item .top .left h3 {
+        font-size: 50px;
+    }
+
+    #plan-part .item .top .right h5 {
+        font-size: 30px;
+    }
+
+    #plan-part .item .bottom ul li a {
+        font-size: 18px;
+    }
+
+    #plan-part .item .bottom ul li i {
+        margin-left: 60px;
+    }
+
+    #plan-part .item .bottom ul li i {
+        font-size: 18px;
+        margin-left: 0px;
+    }
+
+    #plan-part .item .bottom ul li .worng {
+        font-size: 20px;
+    }
+
+    #plan-part .item .bottom ul li .worng {
+        font-size: 18px;
+    }
+
+    #plan-part .item .bottom {
+        height: 530px;
+    }
+
+    #plan-part .item .top {
+        margin-top: 50px;
+    }
+
+
+
+
+
+
+    #plan-part .header h2 {
+        font-size: 35px;
+    }
+
+    #plan-part .header h2::after {
+        height: 4px;
+    }
+
+    #plan-part .header p {
+        font-size: 20px;
+    }
+
+    #plan-part .item .top {
+        height: 100px;
+        margin-top: 30px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #plan-part2 {
+        padding-bottom: 15px;
+    }
+
+    #plan-part2 .header h2 {
+        font-size: 25px;
+        margin-top: 30px;
+        padding-bottom: 80px;
+    }
+
+    #plan-part2 .header h2::after {
+        bottom: 70px;
+        height: 2px;
+    }
+
+    #plan-part2 .header p {
+        font-size: 16px;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: -45px;
+    }
+
+
+
+
+
+
+
+    #plan-part2 .header h2 {
+        font-size: 30px;
+        padding-right: 218px;
+        padding-left: 213px;
+    }
+
+    #plan-part2 .header h2::after {
+        height: 3px;
+    }
+
+    #plan-part2 .header p {
+        font-size: 18px;
+    }
+
+
+
+
+
+
+
+
+    #plan-part2 {
+        padding-bottom: 40px;
+    }
+
+    #plan-part2 .header h2 {
+        font-size: 35px;
+    }
+
+    #plan-part2 .header h2::after {
+        height: 4px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    #mission-part {
+        height: 710px;
+    }
+
+    #mission-part img {
+        padding: 14px 0;
+    }
+
+    #mission-part .right h3 {
+        font-size: 25px;
+        margin-top: -80px;
+    }
+
+    #mission-part .right .line {
+        height: 2px;
+        margin-top: 10px;
+    }
+
+    #mission-part .right p {
+        font-size: 16px;
+        padding-top: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #mission-part .right span {
+        font-size: 18px;
+        padding-left: 15px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    #mission-part {
+        height: 820px;
+    }
+
+    #mission-part .right h3 {
+        font-size: 30px;
+    }
+
+    #news-part .header h2::after {
+        height: 3px;
+    }
+
+    #mission-part .right p {
+        font-size: 18px;
+    }
+
+    #mission-part .right span {
+        font-size: 20px;
+    }
+
+
+
+
+
+
+
+
+    #mission-part {
+        height: 760px;
+    }
+
+    #mission-part .right h3 {
+        font-size: 35px;
+    }
+
+    #mission-part .right .line {
+        height: 4px;
+    }
+
+    #mission-part .right p {
+        font-size: 20px;
+    }
+
+    #mission-part .right {
+        padding-top: 470px;
+        margin-left: -409px;
+        padding-right: 68px;
+    }
+
+    #mission-part img {
+        width: 112%;
+        margin-left: 190px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #news-part .header h2 {
+        font-size: 25px;
+        margin-top: -60px;
+    }
+
+    #news-part .header h2::after {
+        bottom: 70px;
+        height: 2px;
+    }
+
+    #news-part .header p {
+        font-size: 16px;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: -40px;
+    }
+
+    #news-part .item .info h5::before {
+        width: 298px;
+    }
+
+    #news-part .item .info h5::after {
+        width: 298px;
+    }
+
+    #news-part .item img {
+        width: 296px;
+    }
+
+    #news-part .item .info {
+        width: 296px;
+    }
+
+    #news-part .item .info h4 {
+        margin-right: 22px;
+    }
+
+    #news-part .item .info h4 {
+        margin-top: 10px;
+    }
+
+    #news-part .item .info .line {
+        width: 296px;
+    }
+
+    #news-part .item .info h5 span {
+        margin-left: 47px;
+    }
+
+
+
+
+
+    #news-part .header h2 {
+        font-size: 30px;
+    }
+
+    #news-part .header h2::after {
+        height: 3px;
+    }
+
+    #news-part .header p {
+        font-size: 18px;
+    }
+
+
+
+
+
+
+
+    #news-part .item img {
+        width: 230px;
+    }
+
+    #news-part .item .info {
+        width: 230px;
+    }
+
+    #news-part .item .info h5::after {
+        width: 231px;
+    }
+
+    #news-part .item .info h5::before {
+        width: 231px;
+    }
+
+    #news-part .item .info h5 span {
+        margin-left: -19px;
+        font-size: 14px;
+    }
+
+
+
+
+
+
+    #news-part .header h2 {
+        font-size: 35px;
+    }
+
+    #news-part .header h2::after {
+        height: 4px;
+    }
+
+    #news-part .header p {
+        font-size: 20px;
+    }
+
+    #news-part .item img {
+        width: 285px;
+    }
+
+    #news-part .item .info {
+        width: 285px;
+    }
+
+    #news-part .item .info h5::after {
+        width: 286px;
+    }
+
+    #news-part .item .info h5::before {
+        width: 286px;
+    }
+
+    #news-part .item .info .line {
+        width: 285px;
+    }
+
+    #news-part .item .info h5 span {
+        margin-left: 36px;
+    }
+
+    #news-part .item .info h4 {
+        font-size: 19px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    footer .item img {
+        margin-top: 25px;
+        margin-bottom: 20px;
+        width: 50%;
+    }
+
+    footer .item p {
+        font-size: 16px;
+        width: auto;
+    }
+
+    footer .item h4 {
+        font-size: 25px;
+    }
+
+    footer .item h5 {
+        font-size: 18px;
+        padding-top: 6px;
+    }
+
+    footer .item2 h4 {
+        padding-top: 40px;
+        padding-bottom: 10px;
+        font-size: 16px;
+    }
+
+    footer .item2 h4 {
+        padding-bottom: 2px;
+    }
+
+    footer .item2 ul li a {
+        font-size: 14px;
+        margin-left: -30px;
+        padding-left: 31px;
+    }
+
+    footer p {
+        font-size: 16px;
+    }
+
+
+
+
+
+
+    footer .main {
+        margin-left: -30px;
+    }
+
+    footer .item2 h4 {
+        margin-left: 33px;
+    }
+
+
+
+
+
+
+    footer .item img {
+        width: 30%;
+    }
+
+    footer .item p {
+        font-size: 18px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* =====================last line====================== */
+}
+
+/* =================4th======================== */
+
+
+
+
+
+@media (min-width:1200px) and (max-width:1399px) {
+    header {
+        height: auto;
+    }
+
+    header .item2::before {
+        display: none;
+    }
+
+    header .icon {
+        text-align: left;
+    }
+
+    nav .navbar-brand img {
+        width: 100%;
+    }
+
+    nav button i {
+        color: #fff;
+    }
+
+
+
+    header .item2::after {
+        display: none;
+    }
+
+
+
+
+    header .item .second-p {
+        font-size: 14px;
+        width: 122%;
+    }
+
+
+
+
+    #banner-part {
+        height: 664px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+
+    #banner-part .overlay .box-info {
+        width: auto;
+        background: transparent;
+        padding: 0px 10px;
+        top: 20px;
+        left: 0;
+    }
+
+    #banner-part .overlay .box-info h1 {
+        font-size: 32px;
+        padding: 15px 0;
+    }
+
+    #banner-part .overlay .box-info .banner-second-p {
+        font-size: 16px;
+    }
+
+    #banner-part .overlay .box-info a {
+        font-size: 14px;
+        padding: 10px 10px;
+        margin-right: 25px;
+        margin-top: 30px;
+        margin-bottom: 50px;
+        margin-left: 28px;
+    }
+
+
+
+
+
+    #banner-part .overlay .box-info p {
+        margin-left: 28px;
+    }
+
+    #banner-part .overlay .box-info h1 {
+        margin-left: 28px;
+    }
+
+
+
+
+
+
+
+
+
+    #banner-part .overlay .box-info p {
+        font-size: 30px;
+        padding-top: 60px;
+    }
+    #banner-part .overlay .box-info h1 {
+        font-size: 60px;
+        padding: 80px 0;
+        padding-right: 636px;
+    }
+    #banner-part .overlay .box-info .banner-second-p {
+        font-size: 25px;
+        padding-top: 0px;
+    }
+    #banner-part .overlay .box-info a {
+        font-size: 20px;
+        margin-top: 70px;
+    }
+    #banner-part .overlay {
+        background: rgba(61, 45, 45, 0.70);
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #solution-part h3 {
+        font-size: 30px;
+        padding-right: 227px;
+    }
+
+    #solution-part .line {
+        height: 3px;
+    }
+
+    #solution-part .details a {
+        font-size: 20px;
+        padding: 10px 20px;
+        margin-top: 40px;
+    }
+
+
+
+
+    #solution-part {
+        margin-top: 30px;
+    }
+
+    #solution-part .years h2 {
+        font-size: 60px;
+    }
+
+    #solution-part .years p {
+        font-size: 16px;
+    }
+
+    #solution-part .years {
+        height: 119px;
+    }
+
+    #solution-part h3 {
+        font-family: 'Poppins', sans-serif;
+        font-size: 25px;
+        font-weight: 700;
+        color: black;
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+
+    #solution-part .line {
+        height: 2px;
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+
+    #solution-part .details p {
+        font-size: 16px;
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+
+    #solution-part .details a {
+        font-size: 18px;
+        padding: 10px 20px;
+        margin-top: 40px;
+        margin-left: 0px;
+    }
+
+
+
+
+
+    #solution-part .years h2 {
+        font-size: 80px;
+    }
+
+    #solution-part .years p {
+        font-size: 18px;
+    }
+
+    #solution-part .years {
+        height: 130px;
+    }
+
+    #solution-part h3 {
+        font-size: 30px;
+    }
+
+    #solution-part .line {
+        height: 4px;
+    }
+
+    #solution-part h3 {
+        margin-top: -7px;
+    }
+
+    #solution-part .details a {
+        margin-top: 20px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+    #solution-part h3 {
+        font-size: 40px;
+    }
+    #solution-part .details p {
+        font-size: 18px;
+    }
+    #solution-part .details a {
+        font-size: 20px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #choose-part h3 {
+        font-size: 30px;
+        padding-right: 266px;
+    }
+
+    #choose-part .line {
+        height: 3px;
+    }
+
+    #choose-part .details .list {
+        margin-bottom: 30px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #choose-part img {
+        position: static;
+        width: 100%;
+        margin-top: 15px;
+    }
+
+    #choose-part h3 {
+        font-size: 25px;
+        width: auto;
+    }
+
+    #choose-part .line {
+        height: 2px;
+        margin-top: 10px;
+    }
+
+    #choose-part .details p {
+        font-size: 16px;
+        margin: 16px 0;
+        width: auto;
+    }
+
+    #choose-part .details .list {
+        padding-top: 16px;
+    }
+
+    #choose-part .details .list h4 {
+        font-size: 20px;
+    }
+
+    #choose-part .details .list p {
+        margin-top: 14px;
+        width: auto;
+    }
+
+    #choose-part .details .list p {
+        margin-top: 16px;
+    }
+
+    #choose-part .details p {
+        font-size: 18px;
+    }
+
+
+
+
+
+
+
+
+    #choose-part h3 {
+        font-size: 35px;
+        padding-right: 0;
+    }
+
+    #choose-part .line {
+        height: 4px;
+    }
+
+    #choose-part .details p {
+        font-size: 20px;
+    }
+
+    #choose-part .details .list h4 {
+        font-size: 22px;
+    }
+
+    #choose-part .details .list {
+        padding-top: 0px;
+    }
+
+
+
+
+    #choose-part h3 {
+        font-size: 40px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #offer {
+        margin-top: 40px;
+    }
+
+    .title h1 {
+        font-size: 25px;
+        line-height: 33px;
+        margin-top: -50px;
+        margin-right: 20px;
+    }
+
+    .title::before {
+        top: 30px;
+        left: 65px;
+        width: 2px;
+        padding-top: 9px;
+        rotate: 90deg;
+    }
+
+    .title2 {
+        margin-left: 0px;
+        margin-top: -30px;
+    }
+
+    .title2 p {
+        font-size: 16px;
+    }
+
+    .finance {
+        margin-top: 40px;
+        margin-bottom: -60px;
+    }
+
+    .finance h1 {
+        font-size: 22px;
+    }
+
+    .finance p {
+        font-size: 16px;
+    }
+
+    .growth {
+        margin-top: -27px;
+    }
+
+    .missions {
+        margin-top: -25px;
+    }
+
+    .plan {
+        margin-top: -25px;
+    }
+
+    .marketing {
+        margin-top: -25px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    .title::before {
+        width: 3px;
+    }
+
+    .title2 p {
+        font-size: 18px;
+    }
+
+    .finance h1 {
+        font-size: 25px;
+    }
+
+    .finance {
+        margin-top: 79px;
+    }
+
+    .finance .fi-icon {
+        padding-top: 33px;
+    }
+
+    .decisions .de-icon {
+        padding-top: 54px;
+    }
+
+
+
+
+    .title::before {
+        width: 4px;
+        rotate: 0deg;
+        margin-left: 280px;
+        margin-top: -12px;
+    }
+   
+
+
+
+
+
+
+    #team-part .header h2 {
+        font-size: 25px;
+        margin-top: -80px;
+    }
+
+    #team-part .header h2::after {
+        bottom: 70px;
+        height: 2px;
+    }
+
+    #team-part .header p {
+        font-size: 16px;
+        text-align: left;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: -30px;
+    }
+
+    #team-part .info h2 {
+        font-size: 25px;
+    }
+
+    #team-part .info p {
+        font-size: 15px;
+    }
+
+    #team-part .info {
+        padding: 2px 0;
+    }
+
+    .fa-plus::before {
+        font-size: 20px;
+    }
+
+    #team-part .item {
+        margin-top: 20px;
+    }
+
+
+
+
+
+
+
+
+    #team-part .header h2 {
+        font-size: 35px;
+        padding-right: 0px;
+        padding-left: 0px;
+        margin-left: 0px;
+    }
+
+    #team-part .header h2::after {
+        height: 3px;
+        margin-left: -32px;
+    }
+
+    #team-part .header p {
+        font-size: 18px;
+    }
+
+    #team-part .info {
+        padding: 40px 0;
+    }
+
+    #team-part .info h2 {
+        font-size: 40px;
+    }
+
+    #team-part .info p {
+        font-size: 20px;
+    }
+
+
+
+
+
+
+
+    #team-part .header h2 {
+        font-size: 35px;
+    }
+
+    #team-part .header h2::after {
+        height: 4px;
+    }
+
+    #team-part .header p {
+        font-size: 20px;
+    }
+
+    #team-part .info h2 {
+        font-size: 30px;
+    }
+
+    #team-part .info p {
+        font-size: 16px;
+    }
+
+    #team-part .info {
+        padding: 12px 0;
+    }
+
+
+
+
+    #team-part .header h2 {
+        font-size: 40px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .title h1 {
+        font-size: 40px;
+        line-height: 60px;
+    }
+
+    .title::before {
+        width: 4px;
+    }
+
+    .title2 p {
+        font-size: 20px;
+        margin-top: 50px;
+        margin-left: -66px;
+    }
+
+    .title::before {
+        width: 4px;
+    }
+
+    .growth {
+        margin-top: 70px;
+    }
+
+    .finance .fi-icon {
+        padding-top: 60px;
+    }
+
+    .growth {
+        margin-top: 80px;
+        height: 350px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #counter-part .item h1 {
+        font-size: 50px;
+        margin-top: -14px;
+    }
+
+    #counter-part .item p {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    #counter-part {
+        height: 650px;
+        margin-bottom: 30px;
+    }
+
+
+
+
+
+
+    #counter-part .item {
+        margin-top: 170px;
+    }
+
+    #counter-part .item h1 {
+        font-size: 55px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+    #counter-part {
+        height: 375px;
+    }
+
+    #counter-part .item h1 {
+        font-size: 60px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #faq-part {
+        margin-bottom: 30px;
+    }
+
+    #faq-part h3 {
+        font-size: 25px;
+        width: auto;
+    }
+
+    #faq-part .line {
+        height: 2px;
+        margin-top: 10px;
+    }
+
+    #faq-part .details p {
+        font-size: 16px;
+        margin: 25px 0;
+        width: auto;
+    }
+
+    #faq-part .accordion-item .accordion-body {
+        font-size: 16px;
+    }
+
+    #faq-part .accordion-button {
+        font-size: 18px;
+    }
+
+    #faq-part .collapsed {
+        font-size: 18px;
+    }
+
+    #faq-part .accordion-button i {
+        top: 60%;
+    }
+
+
+
+
+
+
+
+
+    #faq-part h3 {
+        font-size: 30px;
+        padding-right: 400px;
+    }
+
+    #faq-part .line {
+        height: 3px;
+    }
+
+    #faq-part .details p {
+        font-size: 18px;
+    }
+
+    #faq-part .accordion-button {
+        font-size: 25px;
+        padding-right: 298px;
+    }
+
+    #faq-part .accordion-item .accordion-body {
+        font-size: 18px;
+    }
+
+
+
+
+
+
+
+    #faq-part h3 {
+        font-size: 35px;
+        padding-right: 0px;
+    }
+
+    #faq-part .line {
+        height: 4px;
+    }
+
+    #faq-part .details p {
+        font-size: 20px;
+    }
+
+    #faq-part .accordion-button {
+        padding-right: 0px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .accordion-header {
+        margin-bottom: 5px;
+    }
+
+    .accordion-item {
+        border: 0px solid rgba(0, 0, 0, .125);
+    }
+
+    #faq-part img {
+        position: static;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    #plan-part .header h2 {
+        font-size: 25px;
+        margin-top: 20px;
+        padding-bottom: 60px;
+    }
+
+    #plan-part {
+        padding-bottom: 30px;
+    }
+
+    #plan-part .header h2::after {
+        height: 2px;
+    }
+
+    #plan-part .header p {
+        font-size: 16px;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: -20px;
+    }
+
+    #plan-part .item .top {
+        height: 80px;
+        margin-top: 30px;
+    }
+
+    #plan-part .item .top .left h3 {
+        font-size: 40px;
+    }
+
+    #plan-part .item .top .right h5 {
+        font-size: 25px;
+    }
+
+    #plan-part .item .bottom ul li a {
+        font-size: 18px;
+    }
+
+    #plan-part .item .bottom ul li i {
+        font-size: 18px;
+    }
+
+    #plan-part .item .bottom ul li .worng {
+        font-size: 18px;
+    }
+
+    #plan-part .item .bottom {
+        height: 100%;
+        height: 500px;
+        background: #fff;
+    }
+
+    #plan-part .item .bottom .box a {
+        font-size: 18px;
+        width: 135px;
+        height: 45px;
+        margin-left: 30px;
+        margin-top: 50px;
+    }
+
+    #plan-part .item .bottom ul li i {
+        margin-left: 30px;
+    }
+
+
+
+
+
+
+
+
+
+    #plan-part .header h2 {
+        font-size: 30px;
+    }
+
+    #plan-part .header h2::after {
+        height: 3px;
+    }
+
+    #plan-part .header p {
+        font-size: 18px;
+    }
+
+    #plan-part .item .top .left h3 {
+        font-size: 50px;
+    }
+
+    #plan-part .item .top .right h5 {
+        font-size: 30px;
+    }
+
+    #plan-part .item .bottom ul li a {
+        font-size: 18px;
+    }
+
+    #plan-part .item .bottom ul li i {
+        margin-left: 60px;
+    }
+
+    #plan-part .item .bottom ul li i {
+        font-size: 18px;
+        margin-left: 0px;
+    }
+
+    #plan-part .item .bottom ul li .worng {
+        font-size: 20px;
+    }
+
+    #plan-part .item .bottom ul li .worng {
+        font-size: 18px;
+    }
+
+    #plan-part .item .bottom {
+        height: 530px;
+    }
+
+    #plan-part .item .top {
+        margin-top: 50px;
+    }
+
+
+
+
+
+
+    #plan-part .header h2 {
+        font-size: 35px;
+    }
+
+    #plan-part .header h2::after {
+        height: 4px;
+    }
+
+    #plan-part .header p {
+        font-size: 20px;
+    }
+
+    #plan-part .item .top {
+        height: 100px;
+        margin-top: 30px;
+    }
+
+
+
+
+    #plan-part .header h2 {
+        font-size: 40px;
+    }
+
+
+
+
+
+
+
+
+    #plan-part2 {
+        padding-bottom: 15px;
+    }
+
+    #plan-part2 .header h2 {
+        font-size: 25px;
+        margin-top: 30px;
+        padding-bottom: 80px;
+    }
+
+    #plan-part2 .header h2::after {
+        bottom: 70px;
+        height: 2px;
+    }
+
+    #plan-part2 .header p {
+        font-size: 16px;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: -45px;
+    }
+
+
+
+
+
+
+
+    #plan-part2 .header h2 {
+        font-size: 30px;
+        padding-right: 218px;
+        padding-left: 213px;
+    }
+
+    #plan-part2 .header h2::after {
+        height: 3px;
+    }
+
+    #plan-part2 .header p {
+        font-size: 18px;
+    }
+
+
+
+
+
+
+
+
+    #plan-part2 {
+        padding-bottom: 40px;
+    }
+
+    #plan-part2 .header h2 {
+        font-size: 35px;
+    }
+
+    #plan-part2 .header h2::after {
+        height: 4px;
+    }
+
+
+
+
+
+    #plan-part2 .header h2 {
+        font-size: 40px;
+    }
+
+
+
+
+
+
+    #mission-part {
+        height: 710px;
+    }
+
+    #mission-part img {
+        padding: 14px 0;
+    }
+
+    #mission-part .right h3 {
+        font-size: 25px;
+        margin-top: -80px;
+    }
+
+    #mission-part .right .line {
+        height: 2px;
+        margin-top: 10px;
+    }
+
+    #mission-part .right p {
+        font-size: 16px;
+        padding-top: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #mission-part .right span {
+        font-size: 18px;
+        padding-left: 15px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    #mission-part {
+        height: 820px;
+    }
+
+    #mission-part .right h3 {
+        font-size: 30px;
+    }
+
+    #news-part .header h2::after {
+        height: 3px;
+    }
+
+    #mission-part .right p {
+        font-size: 18px;
+    }
+
+    #mission-part .right span {
+        font-size: 20px;
+    }
+
+
+
+
+
+
+
+
+    #mission-part {
+        height: 760px;
+    }
+
+    #mission-part .right h3 {
+        font-size: 35px;
+    }
+
+    #mission-part .right .line {
+        height: 4px;
+    }
+
+    #mission-part .right p {
+        font-size: 20px;
+    }
+
+    #mission-part .right {
+        padding-top: 470px;
+        margin-left: -409px;
+        padding-right: 68px;
+    }
+
+    #mission-part img {
+        width: 112%;
+        margin-left: 190px;
+    }
+
+
+
+
+    #mission-part {
+        height: 800px;
+    }
+    #mission-part .right h3 {
+        font-size: 40px;
+        margin-top: -10px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #news-part .header h2 {
+        font-size: 25px;
+        margin-top: -60px;
+    }
+
+    #news-part .header h2::after {
+        bottom: 70px;
+        height: 2px;
+    }
+
+    #news-part .header p {
+        font-size: 16px;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: -40px;
+    }
+
+    #news-part .item .info h5::before {
+        width: 298px;
+    }
+
+    #news-part .item .info h5::after {
+        width: 298px;
+    }
+
+    #news-part .item img {
+        width: 296px;
+    }
+
+    #news-part .item .info {
+        width: 296px;
+    }
+
+    #news-part .item .info h4 {
+        margin-right: 22px;
+    }
+
+    #news-part .item .info h4 {
+        margin-top: 10px;
+    }
+
+    #news-part .item .info .line {
+        width: 296px;
+    }
+
+    #news-part .item .info h5 span {
+        margin-left: 47px;
+    }
+
+
+
+
+
+    #news-part .header h2 {
+        font-size: 30px;
+    }
+
+    #news-part .header h2::after {
+        height: 3px;
+    }
+
+    #news-part .header p {
+        font-size: 18px;
+    }
+
+
+
+
+
+
+
+    #news-part .item img {
+        width: 230px;
+    }
+
+    #news-part .item .info {
+        width: 230px;
+    }
+
+    #news-part .item .info h5::after {
+        width: 231px;
+    }
+
+    #news-part .item .info h5::before {
+        width: 231px;
+    }
+
+    #news-part .item .info h5 span {
+        margin-left: -19px;
+        font-size: 14px;
+    }
+
+
+
+
+
+
+    #news-part .header h2 {
+        font-size: 35px;
+    }
+
+    #news-part .header h2::after {
+        height: 4px;
+    }
+
+    #news-part .header p {
+        font-size: 20px;
+    }
+
+    #news-part .item img {
+        width: 285px;
+    }
+
+    #news-part .item .info {
+        width: 285px;
+    }
+
+    #news-part .item .info h5::after {
+        width: 286px;
+    }
+
+    #news-part .item .info h5::before {
+        width: 286px;
+    }
+
+    #news-part .item .info .line {
+        width: 285px;
+    }
+
+    #news-part .item .info h5 span {
+        margin-left: 36px;
+    }
+
+    #news-part .item .info h4 {
+        font-size: 19px;
+    }
+
+
+
+
+
+
+    #news-part .header h2 {
+        font-size: 40px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    footer .item img {
+        margin-top: 25px;
+        margin-bottom: 20px;
+        width: 50%;
+    }
+
+    footer .item p {
+        font-size: 16px;
+        width: auto;
+    }
+
+    footer .item h4 {
+        font-size: 25px;
+    }
+
+    footer .item h5 {
+        font-size: 18px;
+        padding-top: 6px;
+    }
+
+    footer .item2 h4 {
+        padding-top: 40px;
+        padding-bottom: 10px;
+        font-size: 16px;
+    }
+
+    footer .item2 h4 {
+        padding-bottom: 2px;
+    }
+
+    footer .item2 ul li a {
+        font-size: 14px;
+        margin-left: -30px;
+        padding-left: 31px;
+    }
+
+    footer p {
+        font-size: 16px;
+    }
+
+
+
+
+
+
+    footer .main {
+        margin-left: -30px;
+    }
+
+    footer .item2 h4 {
+        margin-left: 33px;
+    }
+
+
+
+
+
+
+    footer .item img {
+        width: 30%;
+    }
+
+    footer .item p {
+        font-size: 18px;
+    }
+
+
+
+
+    footer .item img {
+        width: 60%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* =====================last line====================== */
+}
+
+/* =================5th======================== */
+
+
+
+
+
+@media (min-width:1400px){
+    header {
+        height: auto;
+    }
+
+    header .item2::before {
+        display: none;
+    }
+
+    header .icon {
+        text-align: left;
+    }
+
+    nav .navbar-brand img {
+        width: 100%;
+    }
+
+    nav button i {
+        color: #fff;
+    }
+
+
+
+    header .item2::after {
+        display: none;
+    }
+
+
+
+
+    header .item .second-p {
+        font-size: 14px;
+        width: 122%;
+    }
+
+
+
+
+
+
+
+    .navbar-expand-lg .navbar-collapse {
+        margin-right: 100px;
+    }
+    
+    #banner-part .overlay .box-info h1 {
+        font-size: 60px;
+        padding: 80px 0;
+        padding-right: 836px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    #banner-part {
+        height: 664px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+
+    #banner-part .overlay .box-info {
+        width: auto;
+        background: transparent;
+        padding: 0px 10px;
+        top: 20px;
+        left: 0;
+    }
+
+    #banner-part .overlay .box-info h1 {
+        font-size: 32px;
+        padding: 15px 0;
+    }
+
+    #banner-part .overlay .box-info .banner-second-p {
+        font-size: 16px;
+    }
+
+    #banner-part .overlay .box-info a {
+        font-size: 14px;
+        padding: 10px 10px;
+        margin-right: 25px;
+        margin-top: 30px;
+        margin-bottom: 50px;
+        margin-left: 28px;
+    }
+
+
+
+
+
+    #banner-part .overlay .box-info p {
+        margin-left: 28px;
+    }
+
+    #banner-part .overlay .box-info h1 {
+        margin-left: 28px;
+    }
+
+
+
+
+
+
+
+
+
+    #banner-part .overlay .box-info p {
+        font-size: 30px;
+        padding-top: 60px;
+    }
+    #banner-part .overlay .box-info h1 {
+        font-size: 60px;
+        padding: 80px 0;
+        padding-right: 836px;
+    }
+    #banner-part .overlay .box-info .banner-second-p {
+        font-size: 25px;
+        padding-top: 0px;
+    }
+    #banner-part .overlay .box-info a {
+        font-size: 20px;
+        margin-top: 70px;
+    }
+    #banner-part .overlay {
+        background: rgba(61, 45, 45, 0.70);
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #solution-part h3 {
+        font-size: 30px;
+        padding-right: 227px;
+    }
+
+    #solution-part .line {
+        height: 3px;
+    }
+
+    #solution-part .details a {
+        font-size: 20px;
+        padding: 10px 20px;
+        margin-top: 40px;
+    }
+
+
+
+
+    #solution-part {
+        margin-top: 30px;
+    }
+
+    #solution-part .years h2 {
+        font-size: 60px;
+    }
+
+    #solution-part .years p {
+        font-size: 16px;
+    }
+
+    #solution-part .years {
+        height: 119px;
+    }
+
+    #solution-part h3 {
+        font-family: 'Poppins', sans-serif;
+        font-size: 25px;
+        font-weight: 700;
+        color: black;
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+
+    #solution-part .line {
+        height: 2px;
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+
+    #solution-part .details p {
+        font-size: 16px;
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+
+    #solution-part .details a {
+        font-size: 18px;
+        padding: 10px 20px;
+        margin-top: 40px;
+        margin-left: 0px;
+    }
+
+
+
+
+
+    #solution-part .years h2 {
+        font-size: 80px;
+    }
+
+    #solution-part .years p {
+        font-size: 18px;
+    }
+
+    #solution-part .years {
+        height: 130px;
+    }
+
+    #solution-part h3 {
+        font-size: 30px;
+    }
+
+    #solution-part .line {
+        height: 4px;
+    }
+
+    #solution-part h3 {
+        margin-top: -7px;
+    }
+
+    #solution-part .details a {
+        margin-top: 20px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+    #solution-part h3 {
+        font-size: 40px;
+    }
+    #solution-part .details p {
+        font-size: 18px;
+    }
+    #solution-part .details a {
+        font-size: 20px;
+    }
+
+
+
+
+
+
+
+
+    #solution-part .details p {
+        font-size: 20px;
+        padding-right: 35px;
+    }
+    #solution-part .details a {
+        margin-top: 50px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #choose-part h3 {
+        font-size: 30px;
+        padding-right: 266px;
+    }
+
+    #choose-part .line {
+        height: 3px;
+    }
+
+    #choose-part .details .list {
+        margin-bottom: 30px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #choose-part img {
+        position: static;
+        width: 100%;
+        margin-top: 15px;
+    }
+
+    #choose-part h3 {
+        font-size: 25px;
+        width: auto;
+    }
+
+    #choose-part .line {
+        height: 2px;
+        margin-top: 10px;
+    }
+
+    #choose-part .details p {
+        font-size: 16px;
+        margin: 16px 0;
+        width: auto;
+    }
+
+    #choose-part .details .list {
+        padding-top: 16px;
+    }
+
+    #choose-part .details .list h4 {
+        font-size: 20px;
+    }
+
+    #choose-part .details .list p {
+        margin-top: 14px;
+        width: auto;
+    }
+
+    #choose-part .details .list p {
+        margin-top: 16px;
+    }
+
+    #choose-part .details p {
+        font-size: 18px;
+    }
+
+
+
+
+
+
+
+
+    #choose-part h3 {
+        font-size: 35px;
+        padding-right: 0;
+    }
+
+    #choose-part .line {
+        height: 4px;
+    }
+
+    #choose-part .details p {
+        font-size: 20px;
+    }
+
+    #choose-part .details .list h4 {
+        font-size: 22px;
+    }
+
+    #choose-part .details .list {
+        padding-top: 0px;
+    }
+
+
+    #choose-part h3 {
+        font-size: 40px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #offer {
+        margin-top: 40px;
+    }
+
+    .title h1 {
+        font-size: 25px;
+        line-height: 33px;
+        margin-top: -50px;
+        margin-right: 20px;
+    }
+
+    .title::before {
+        top: 30px;
+        left: 65px;
+        width: 2px;
+        padding-top: 9px;
+        rotate: 90deg;
+    }
+
+    .title2 {
+        margin-left: 0px;
+        margin-top: -30px;
+    }
+
+    .title2 p {
+        font-size: 16px;
+    }
+
+    .finance {
+        margin-top: 40px;
+        margin-bottom: -60px;
+    }
+
+    .finance h1 {
+        font-size: 22px;
+    }
+
+    .finance p {
+        font-size: 16px;
+    }
+
+    .growth {
+        margin-top: -27px;
+    }
+
+    .missions {
+        margin-top: -25px;
+    }
+
+    .plan {
+        margin-top: -25px;
+    }
+
+    .marketing {
+        margin-top: -25px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    .title::before {
+        width: 3px;
+    }
+
+    .title2 p {
+        font-size: 18px;
+    }
+
+    .finance h1 {
+        font-size: 25px;
+    }
+
+    .finance {
+        margin-top: 79px;
+    }
+
+    .finance .fi-icon {
+        padding-top: 33px;
+    }
+
+    .decisions .de-icon {
+        padding-top: 30px;
+    }
+
+
+
+
+
+    .title::before {
+        width: 4px;
+        rotate: 0deg;
+        margin-left: 280px;
+        margin-top: -12px;
+    }
+   
+
+
+
+
+
+
+    #team-part .header h2 {
+        font-size: 25px;
+        margin-top: -80px;
+    }
+
+    #team-part .header h2::after {
+        bottom: 70px;
+        height: 2px;
+    }
+
+    #team-part .header p {
+        font-size: 16px;
+        text-align: left;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: -30px;
+    }
+
+    #team-part .info h2 {
+        font-size: 25px;
+    }
+
+    #team-part .info p {
+        font-size: 15px;
+    }
+
+    #team-part .info {
+        padding: 2px 0;
+    }
+
+    .fa-plus::before {
+        font-size: 20px;
+    }
+
+    #team-part .item {
+        margin-top: 20px;
+    }
+
+
+
+
+
+
+
+
+    #team-part .header h2 {
+        font-size: 35px;
+        padding-right: 0px;
+        padding-left: 0px;
+        margin-left: 0px;
+    }
+
+    #team-part .header h2::after {
+        height: 3px;
+        margin-left: -32px;
+    }
+
+    #team-part .header p {
+        font-size: 18px;
+    }
+
+    #team-part .info {
+        padding: 40px 0;
+    }
+
+    #team-part .info h2 {
+        font-size: 40px;
+    }
+
+    #team-part .info p {
+        font-size: 20px;
+    }
+
+
+
+
+
+
+
+    #team-part .header h2 {
+        font-size: 35px;
+    }
+
+    #team-part .header h2::after {
+        height: 4px;
+    }
+
+    #team-part .header p {
+        font-size: 20px;
+    }
+
+    #team-part .info h2 {
+        font-size: 30px;
+    }
+
+    #team-part .info p {
+        font-size: 16px;
+    }
+
+    #team-part .info {
+        padding: 12px 0;
+    }
+
+
+
+
+    #team-part .header h2 {
+        font-size: 40px;
+        padding-top: 40px;
+    }
+    #team-part .info h2 {
+        font-size: 40px;
+    }
+    #team-part .info p {
+        font-size: 18px;
+    }
+    #team-part .info {
+        padding: 18px 0;
+    }
+
+    #faq-part h3 {
+        font-size: 40px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .title2 p {
+        font-size: 20px;
+        padding-top: 30px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .title h1 {
+        font-size: 40px;
+        line-height: 60px;
+    }
+
+    .title::before {
+        width: 4px;
+    }
+
+    .title2 p {
+        font-size: 20px;
+        margin-top: 50px;
+        margin-left: -66px;
+    }
+
+    .title::before {
+        width: 4px;
+    }
+
+    .growth {
+        margin-top: 70px;
+    }
+
+    .finance .fi-icon {
+        padding-top: 60px;
+    }
+
+    .growth {
+        margin-top: 80px;
+        height: 327px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #counter-part .item h1 {
+        font-size: 50px;
+        margin-top: -14px;
+    }
+
+    #counter-part .item p {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    #counter-part {
+        height: 650px;
+        margin-bottom: 30px;
+    }
+
+
+
+
+
+
+    #counter-part .item {
+        margin-top: 170px;
+    }
+
+    #counter-part .item h1 {
+        font-size: 55px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+    #counter-part {
+        height: 375px;
+    }
+
+    #counter-part .item h1 {
+        font-size: 60px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #faq-part {
+        margin-bottom: 30px;
+    }
+
+    #faq-part h3 {
+        font-size: 25px;
+        width: auto;
+    }
+
+    #faq-part .line {
+        height: 2px;
+        margin-top: 10px;
+    }
+
+    #faq-part .details p {
+        font-size: 16px;
+        margin: 25px 0;
+        width: auto;
+    }
+
+    #faq-part .accordion-item .accordion-body {
+        font-size: 16px;
+    }
+
+    #faq-part .accordion-button {
+        font-size: 18px;
+    }
+
+    #faq-part .collapsed {
+        font-size: 18px;
+    }
+
+    #faq-part .accordion-button i {
+        top: 60%;
+    }
+
+
+
+
+
+
+
+
+    #faq-part h3 {
+        font-size: 30px;
+        padding-right: 400px;
+    }
+
+    #faq-part .line {
+        height: 3px;
+    }
+
+    #faq-part .details p {
+        font-size: 18px;
+    }
+
+    #faq-part .accordion-button {
+        font-size: 25px;
+        padding-right: 298px;
+    }
+
+    #faq-part .accordion-item .accordion-body {
+        font-size: 18px;
+    }
+
+
+
+
+
+
+
+    #faq-part h3 {
+        font-size: 35px;
+        padding-right: 0px;
+    }
+
+    #faq-part .line {
+        height: 4px;
+    }
+
+    #faq-part .details p {
+        font-size: 20px;
+    }
+
+    #faq-part .accordion-button {
+        padding-right: 0px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .accordion-header {
+        margin-bottom: 5px;
+    }
+
+    .accordion-item {
+        border: 0px solid rgba(0, 0, 0, .125);
+    }
+
+    #faq-part img {
+        position: static;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    #plan-part .header h2 {
+        font-size: 25px;
+        margin-top: 20px;
+        padding-bottom: 60px;
+    }
+
+    #plan-part {
+        padding-bottom: 30px;
+    }
+
+    #plan-part .header h2::after {
+        height: 2px;
+    }
+
+    #plan-part .header p {
+        font-size: 16px;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: -20px;
+    }
+
+    #plan-part .item .top {
+        height: 80px;
+        margin-top: 30px;
+    }
+
+    #plan-part .item .top .left h3 {
+        font-size: 40px;
+    }
+
+    #plan-part .item .top .right h5 {
+        font-size: 25px;
+    }
+
+    #plan-part .item .bottom ul li a {
+        font-size: 18px;
+    }
+
+    #plan-part .item .bottom ul li i {
+        font-size: 18px;
+    }
+
+    #plan-part .item .bottom ul li .worng {
+        font-size: 18px;
+    }
+
+    #plan-part .item .bottom {
+        height: 100%;
+        height: 500px;
+        background: #fff;
+    }
+
+    #plan-part .item .bottom .box a {
+        font-size: 18px;
+        width: 135px;
+        height: 45px;
+        margin-left: 30px;
+        margin-top: 50px;
+    }
+
+    #plan-part .item .bottom ul li i {
+        margin-left: 30px;
+    }
+
+
+
+
+
+
+
+
+
+    #plan-part .header h2 {
+        font-size: 30px;
+    }
+
+    #plan-part .header h2::after {
+        height: 3px;
+    }
+
+    #plan-part .header p {
+        font-size: 18px;
+    }
+
+    #plan-part .item .top .left h3 {
+        font-size: 50px;
+    }
+
+    #plan-part .item .top .right h5 {
+        font-size: 30px;
+    }
+
+    #plan-part .item .bottom ul li a {
+        font-size: 18px;
+    }
+
+    #plan-part .item .bottom ul li i {
+        margin-left: 60px;
+    }
+
+    #plan-part .item .bottom ul li i {
+        font-size: 18px;
+        margin-left: 0px;
+    }
+
+    #plan-part .item .bottom ul li .worng {
+        font-size: 20px;
+    }
+
+    #plan-part .item .bottom ul li .worng {
+        font-size: 18px;
+    }
+
+    #plan-part .item .bottom {
+        height: 530px;
+    }
+
+    #plan-part .item .top {
+        margin-top: 50px;
+    }
+
+
+
+
+
+
+    #plan-part .header h2 {
+        font-size: 35px;
+    }
+
+    #plan-part .header h2::after {
+        height: 4px;
+    }
+
+    #plan-part .header p {
+        font-size: 20px;
+    }
+
+    #plan-part .item .top {
+        height: 100px;
+        margin-top: 30px;
+    }
+
+
+
+
+    #plan-part .header h2 {
+        font-size: 40px;
+    }
+
+
+
+
+
+
+
+
+    #plan-part2 {
+        padding-bottom: 15px;
+    }
+
+    #plan-part2 .header h2 {
+        font-size: 25px;
+        margin-top: 30px;
+        padding-bottom: 80px;
+    }
+
+    #plan-part2 .header h2::after {
+        bottom: 70px;
+        height: 2px;
+    }
+
+    #plan-part2 .header p {
+        font-size: 16px;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: -45px;
+    }
+
+
+
+
+
+
+
+    #plan-part2 .header h2 {
+        font-size: 30px;
+        padding-right: 218px;
+        padding-left: 213px;
+    }
+
+    #plan-part2 .header h2::after {
+        height: 3px;
+    }
+
+    #plan-part2 .header p {
+        font-size: 18px;
+    }
+
+
+
+
+
+
+
+
+    #plan-part2 {
+        padding-bottom: 40px;
+    }
+
+    #plan-part2 .header h2 {
+        font-size: 35px;
+    }
+
+    #plan-part2 .header h2::after {
+        height: 4px;
+    }
+
+
+
+
+
+    #plan-part2 .header h2 {
+        font-size: 40px;
+    }
+
+
+
+
+
+
+    #mission-part {
+        height: 710px;
+    }
+
+    #mission-part img {
+        padding: 14px 0;
+    }
+
+    #mission-part .right h3 {
+        font-size: 25px;
+        margin-top: -80px;
+    }
+
+    #mission-part .right .line {
+        height: 2px;
+        margin-top: 10px;
+    }
+
+    #mission-part .right p {
+        font-size: 16px;
+        padding-top: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #mission-part .right span {
+        font-size: 18px;
+        padding-left: 15px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    #mission-part {
+        height: 820px;
+    }
+
+    #mission-part .right h3 {
+        font-size: 30px;
+    }
+
+    #news-part .header h2::after {
+        height: 3px;
+    }
+
+    #mission-part .right p {
+        font-size: 18px;
+    }
+
+    #mission-part .right span {
+        font-size: 20px;
+    }
+
+
+
+
+
+
+
+
+    #mission-part {
+        height: 760px;
+    }
+
+    #mission-part .right h3 {
+        font-size: 35px;
+    }
+
+    #mission-part .right .line {
+        height: 4px;
+    }
+
+    #mission-part .right p {
+        font-size: 20px;
+    }
+
+    #mission-part .right {
+        padding-top: 470px;
+        margin-left: -409px;
+        padding-right: 68px;
+    }
+
+    #mission-part img {
+        width: 112%;
+        margin-left: 190px;
+    }
+
+
+
+
+    #mission-part {
+        height: 800px;
+    }
+    #mission-part .right h3 {
+        font-size: 40px;
+        margin-top: 46px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #news-part .header h2 {
+        font-size: 25px;
+        margin-top: -60px;
+    }
+
+    #news-part .header h2::after {
+        bottom: 70px;
+        height: 2px;
+    }
+
+    #news-part .header p {
+        font-size: 16px;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: -40px;
+    }
+
+    #news-part .item .info h5::before {
+        width: 298px;
+    }
+
+    #news-part .item .info h5::after {
+        width: 298px;
+    }
+
+    #news-part .item img {
+        width: 296px;
+    }
+
+    #news-part .item .info {
+        width: 296px;
+    }
+
+    #news-part .item .info h4 {
+        margin-right: 22px;
+    }
+
+    #news-part .item .info h4 {
+        margin-top: 10px;
+    }
+
+    #news-part .item .info .line {
+        width: 296px;
+    }
+
+    #news-part .item .info h5 span {
+        margin-left: 47px;
+    }
+
+
+
+
+
+    #news-part .header h2 {
+        font-size: 30px;
+    }
+
+    #news-part .header h2::after {
+        height: 3px;
+    }
+
+    #news-part .header p {
+        font-size: 18px;
+    }
+
+
+
+
+
+
+
+    #news-part .item img {
+        width: 230px;
+    }
+
+    #news-part .item .info {
+        width: 230px;
+    }
+
+    #news-part .item .info h5::after {
+        width: 231px;
+    }
+
+    #news-part .item .info h5::before {
+        width: 231px;
+    }
+
+    #news-part .item .info h5 span {
+        margin-left: -19px;
+        font-size: 14px;
+    }
+
+
+
+
+
+
+    #news-part .header h2 {
+        font-size: 35px;
+    }
+
+    #news-part .header h2::after {
+        height: 4px;
+    }
+
+    #news-part .header p {
+        font-size: 20px;
+    }
+
+    #news-part .item img {
+        width: 285px;
+    }
+
+    #news-part .item .info {
+        width: 285px;
+    }
+
+    #news-part .item .info h5::after {
+        width: 286px;
+    }
+
+    #news-part .item .info h5::before {
+        width: 286px;
+    }
+
+    #news-part .item .info .line {
+        width: 285px;
+    }
+
+    #news-part .item .info h5 span {
+        margin-left: 36px;
+    }
+
+    #news-part .item .info h4 {
+        font-size: 19px;
+    }
+
+
+
+
+
+
+    #news-part .header h2 {
+        font-size: 40px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    footer .item img {
+        margin-top: 25px;
+        margin-bottom: 20px;
+        width: 50%;
+    }
+
+    footer .item p {
+        font-size: 16px;
+        width: auto;
+    }
+
+    footer .item h4 {
+        font-size: 25px;
+    }
+
+    footer .item h5 {
+        font-size: 18px;
+        padding-top: 6px;
+    }
+
+    footer .item2 h4 {
+        padding-top: 40px;
+        padding-bottom: 10px;
+        font-size: 16px;
+    }
+
+    footer .item2 h4 {
+        padding-bottom: 2px;
+    }
+
+    footer .item2 ul li a {
+        font-size: 14px;
+        margin-left: -30px;
+        padding-left: 31px;
+    }
+
+    footer p {
+        font-size: 16px;
+    }
+
+
+
+
+
+
+    footer .main {
+        margin-left: -30px;
+    }
+
+    footer .item2 h4 {
+        margin-left: 33px;
+    }
+
+
+
+
+
+
+    footer .item img {
+        width: 30%;
+    }
+
+    footer .item p {
+        font-size: 18px;
+    }
+
+
+
+
+    footer .item img {
+        width: 60%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* =====================last line====================== */
+}
+
+/* =================6th======================== */
